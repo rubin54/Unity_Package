@@ -1,11 +1,11 @@
 {
   "name": "com.unity.justinmaetschke.tools",
   "version": "1.0.0",
-  "displayName": "Justin Mätschke - Unity Package",
+  "displayName": "Justin Maetschke - Unity Package",
   "description": "Package for a quick Unity Setup and Tools",
   "unity": "2020.3",
   "author": {
-    "name": "Justin Mätschke",
+    "name": "Justin Maetschke",
     "email": "justin.maetschke@gmail.com",
     "url": "https://github.com/rubin54"
   }
