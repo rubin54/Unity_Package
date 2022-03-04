@@ -31,6 +31,6 @@ To reduce setup time of repeating Unity Projects I did a packages for a custom [
 
 <h3>Step 5</h3>
 
-- If Packages are needed like the new Input System or other special Packages I might include it in the future through - Tools/Setup/Packages/"PackagesName"
+- If Packages are needed like the new Input System or other special Packages I might include it in the future through - Tools/Setup/Packages/"PackagesName" (Be Aware - For some packages you still need to restart Unity)
 
 ![](https://github.com/rubin54/Unity_Package/blob/main/ReadMeImages/Github_Packages.png)
