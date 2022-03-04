@@ -11,10 +11,10 @@ To reduce setup time of repeating Unity Projects I did a packages for a custom [
 
 - Copy the Url : https://github.com/rubin54/Unity_Package.git
 
+<h3>Step 2</h3>
+
 - Start a new Unity Project and add the copied url into the Unity PackageManager ( this feature is only available for Unity Version 2020.3 (LTS) or later)
 
-<h3>Step 2</h3>
-  
 ![](https://github.com/rubin54/Unity_Package/blob/main/ReadMeImages/Github_Package_Manager.png)
 
 <h3>Step 3</h3>
